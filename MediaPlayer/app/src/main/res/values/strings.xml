@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Media Player</string>
+    <string name="channel_name">Name</string>
+    <string name="channel_description">Description</string>
+    <string name="Radio_info">Music and sound produced by our own VCS Radio Conservatory students --- 24 hours / no commercials! featuring compositions, orchestrations and more...  Music performances by our very own VCS Radio Jazz and Symphony!</string>
+    <string name="listening_to">You\'re listening to</string>
+</resources>
